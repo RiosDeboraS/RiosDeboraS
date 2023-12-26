@@ -37,7 +37,7 @@ Colaboración efectiva en equipos multifuncionales, con habilidades de adaptabil
 
  📨 Email: riosdeborasabrina@gmail.com
 
- 📲 Telefono: +54 343-2826714
+ 📲 Telefono: +54 341-2826714
 
   
  
