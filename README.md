@@ -1,4 +1,4 @@
-I'm <Debora Sabrina Rios> 👋.
+I'm Debora Sabrina Rios 👋.
 
 
 
