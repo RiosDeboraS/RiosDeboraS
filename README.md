@@ -11,25 +11,9 @@ Experiencia en el manejo de bases de datos, incluyendo PostgreSQL y Sequelize.
 Apasionada por la optimización de rendimiento y la implementación de medidas de seguridad en el desarrollo Backend.
 Colaboración efectiva en equipos multifuncionales, con habilidades de adaptabilidad y resolución creativa de problemas.
 
-🛠🔩⚙ [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,zustand,node.js)](https://skillicons.dev)
-Desarrollo Full Stack
-Next.js
-Prisma
-Node.js
-React-Vite
-Redux
-Zustand
-HTML5
-CSS3
-JS
-Git | GitHub
-PostgreSQL | Sequelize
-Jest | Supertest
-Thunder Client | RapidAPI
-Express.js
-Nodemailer
-Herramientas de gestión de proyectos: Jira
-Metodologías ágiles: Scrum
+🌟✨Skills:
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,nextjs,nodejs,postgres,prisma,react,redux,sequelize,vercel,)](https://skillicons.dev)
+
 ¡Estoy emocionada por seguir creciendo como desarrolladora y contribuir a proyectos innovadores! 🚀
 
 
