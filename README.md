@@ -16,7 +16,7 @@ Colaboración efectiva en equipos multifuncionales, con habilidades de adaptabil
 🌟✨Skills:
 
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,nextjs,nodejs,postgres,prisma,react,redux,sequelize,vercel,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,nextjs,nodejs,postgres,prisma,react,redux,sequelize,vercel,ts)](https://skillicons.dev)
 
 
  🔔 Proyectos Destacados:
